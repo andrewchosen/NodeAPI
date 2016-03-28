@@ -9,6 +9,12 @@
   "author": "Andrew Lancaster",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "expect": "^1.16.0",
+    "mocha": "^2.4.5",
+    "supertest": "^1.2.0"
   }
 }
